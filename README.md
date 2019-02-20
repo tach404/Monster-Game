@@ -5,7 +5,7 @@ First Algorithms assignment set by the University. Achieved **96/100** for this 
 -2 Marks for not critiquing my algorithm.
 
 # DO NOT SUBMIT THIS FOR COURSEWORK!
-Apart from that you are free to download it and play around with the game.
+Apart from that you are free to download fiddle with the code, and play around with the game.
 
 # HOW TO PLAY
 Add monsters to the board, monsters can attack other monsters that are one space next to it.
