@@ -1,7 +1,6 @@
 # Monster-Game
-First Algorithms assignment set by the University.
+First Algorithms assignment set by the University. Achieved **96/100** for this piece of Coursework.
 
-Achieved **96/100** for this piece of Coursework.
 -2 Marks for not removing a monster from the list.
 -2 Marks for not critiquing my algorithm.
 
